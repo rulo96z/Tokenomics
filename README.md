@@ -212,7 +212,7 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
 ---
 ## Contributors
 This code was shared in 2022 Education Services at UCB. 
-Additional updates/ uploads for usability was added by rulo.nogales@nogalesinvestments.com
+Additional updates/ uploads for usability was added by raul@nogalesfundmgmt.com
 
 ---
 
